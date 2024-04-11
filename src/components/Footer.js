@@ -5,7 +5,7 @@ import './Footer.css'; // Create a corresponding CSS file
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>&copy; 2024 Entertainment App by Prince Takur. All rights reserved.</p>
+      <p>&copy; 2024 Entertainment App by Prince Thakur. All rights reserved.</p>
     </footer>
   );
 };
